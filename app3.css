@@ -1,0 +1,21 @@
+html{
+    background: rgb(0,0,0);
+    background: linear-gradient(339deg, rgba(0,0,0,1) 44%, rgba(214,202,28,1) 44%);
+    background-repeat: no-repeat;
+}
+
+#blocheader{
+    width: 40%;
+    border: solid black;
+    box-shadow: black 1em 1em 1em;
+    margin-left: 30%;
+    background-color:rgba(214,202,28,1) ;
+   
+}
+
+.text{
+     color: rgba(214,202,28,1);
+     font-size: 200%;
+     margin-top: 5%;
+     width: 60%;
+}
